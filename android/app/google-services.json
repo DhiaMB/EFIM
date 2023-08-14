@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43960178016",
+    "project_id": "dhia-fou",
+    "storage_bucket": "dhia-fou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43960178016:android:512e10128a848c1e503a05",
+        "android_client_info": {
+          "package_name": "com.example.p001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43960178016-lhahfvjhcpusblbdo9cbbbbefub7brcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-gwUFtBpegzcxJDtlZNl1fOm-kDnTAoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43960178016-lhahfvjhcpusblbdo9cbbbbefub7brcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
